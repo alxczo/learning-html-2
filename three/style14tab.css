@@ -1,0 +1,30 @@
+body {
+  background-image: url(https://img1.picmix.com/output/stamp/normal/6/0/1/6/1556106_f227e.gif);
+  background-color: rgb(208, 167, 231);
+  font: normal 20px Monospace;
+  text-align: center;
+}
+header {
+  color: black;
+}
+section {
+  border-color: white;
+  border-radius: 10px;
+  padding: 15px;
+  max-width: 500px;
+  margin: auto;
+  box-shadow: 5px 5px 10px white;
+}
+footer {
+  color: black;
+  font-style: normal;
+}
+input {
+  border-radius: 3px;
+  border: solid 1px white;
+  font-size: 14pt;
+}
+select {
+  font-size: 14pt;
+  width: 240px;
+}
