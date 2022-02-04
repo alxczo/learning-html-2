@@ -1,0 +1,15 @@
+body {
+  background-image: url(https://img1.picmix.com/output/stamp/normal/6/0/1/6/1556106_f227e.gif);
+  background-color: lavender;
+  font: normal 20px Monospace;
+  text-align: center;
+}
+footer {
+  color: black;
+  font-style: normal;
+}
+input {
+  border-radius: 3px;
+  border: solid 1px white;
+  font-size: 14pt;
+}
